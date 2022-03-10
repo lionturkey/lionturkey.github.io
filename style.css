@@ -58,6 +58,13 @@ main {
     padding: 5%;
 }
 
+.projects {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-around; */
+}
+
 h1 {
     text-align: center;
 }

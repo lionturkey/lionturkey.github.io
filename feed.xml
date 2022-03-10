@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Lion Turkey</title>
+  <link>https://lionturkey.neocities.org/</link>
+  <description>Roar gobble gobble</description>
+  <item>
+    <title>Making a Personal Website</title>
+    <link>https://lionturkey.neocities.org/posts/personalwebsite/makingawebsite.html</link>
+    <description>Learning through example and practice.</description>
+  </item>
+  <item>
+    <title>Sweet Beginnings at Recurse</title>
+    <link>https://lionturkey.neocities.org/posts/blogbeginnings/bb.html</link>
+    <description>Looking back and looking ahead.</description>
+  </item>
+</channel>
+
+</rss> 

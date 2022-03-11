@@ -3,17 +3,12 @@
 
 <channel>
   <title>Lion Turkey</title>
-  <link>https://lionturkey.neocities.org/</link>
+  <link>https://lionturkey.github.io/</link>
   <description>Roar gobble gobble</description>
   <item>
-    <title>Making a Personal Website</title>
-    <link>https://lionturkey.neocities.org/posts/personalwebsite/makingawebsite.html</link>
-    <description>Learning through example and practice.</description>
-  </item>
-  <item>
-    <title>Sweet Beginnings at Recurse</title>
-    <link>https://lionturkey.neocities.org/posts/blogbeginnings/bb.html</link>
-    <description>Looking back and looking ahead.</description>
+    <title>Rust/Wasm without npm</title>
+    <link>https://lionturkey.github.io/posts/rustwasm/rustwasm.html</link>
+    <description>4th post. Not a fan of bloat?</description>
   </item>
 </channel>
 

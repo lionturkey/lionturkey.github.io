@@ -58,6 +58,17 @@ main {
     padding: 5%;
 }
 
+code {
+    background-color: #eeeeee;
+    padding: 0 1%;
+}
+
+.code {
+    background-color: #eeeeee;
+    overflow: scroll;
+    padding: 0 1%;
+}
+
 .projects {
     align-items: center;
     display: flex;
